@@ -28,7 +28,7 @@ The project is created using STM32CubeIDE
 ***Score and Other Info:***\
 Via UART2 (STLink USB) at baud rate 115200, 8 bits data, no parity, 1 stop bit\
 ![plot](./Images/SystemInfo.png)\
-Clock speed of the game main can be viewed via the on board LED (**LD2**, Green)
+Clock speed of the game main can be viewed via the flashing frequency of the on board LED (**LD2**, Green)
 
 ## Basic Controls
 | Function | Control |
