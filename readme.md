@@ -33,14 +33,14 @@ Clock speed of the game main can be viewed via the on board LED (**LD2**, Green)
 
 ## Game Rules
 Initial Bonus = 1
-\
+<a/>
 **WIN** -> All blocks cleared.
 - *Score = Score + Bonus*
 - Game main clock speed increase once, *Bonus = 1*
-\
+<a/>
 **LOSE** -> Ball fall off from the bottom line
 - You lose all the scores
-\
+<a/>
 **Difficulty Adjustment** -> Joystick UP / DOWN
 - Increase clock speed: *Bonus ++*
 - Decrease clock speed: *Bonus --*
@@ -48,12 +48,12 @@ Initial Bonus = 1
 ## Pin Configuations
 | Pin | State | Connect To |
 | --- | --- | --- |
-| PB6 | I2C1_SCL | LED Matrix SCL |
-| PB7 | I2C1_SDA | LED Matrix SDA |
-| PA12 | GPIO_Input (Pull Up) | Joystick Pushbutton |
-| PA6 | ADC1_IN6 | Joystick VRX |
-| PA7 | ADC1_IN7 | Joystick VRY |
-| PB0 | ADC1_IN8 | Leave Floating (to generate random numbers) |
-| PA5 | GPIO_Output | LD2 |
+| 'PB6' | I2C1_SCL | LED Matrix SCL |
+| 'PB7' | I2C1_SDA | LED Matrix SDA |
+| 'PA12' | GPIO_Input (Pull Up) | Joystick Pushbutton |
+| 'PA6' | ADC1_IN6 | Joystick VRX |
+| 'PA7' | ADC1_IN7 | Joystick VRY |
+| 'PB0' | ADC1_IN8 | Leave Floating (to generate random numbers) |
+| 'PA5' | GPIO_Output | LD2 |
 
 ***Important:*** All Vcc of the peripherals should be connected to 3.3V
