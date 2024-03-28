@@ -13,7 +13,9 @@ This is a simple brick breaker game, made up of:
 ## Gameplay
 ![plot](./Images/gameplay.gif)
 
-***Game Fail***
+***Game Fail:***
 ![plot](./Images/fail.gif)
 
-***Score and Other Info***
+***Score and Other Info:***
+Via UART at baud rate 115200, 8 bits data, no parity, 1 stop bit
+![plot](./Images/SystemInfo.png)
