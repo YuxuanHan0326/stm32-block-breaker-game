@@ -45,7 +45,7 @@ Initial Bonus = 1
 
 **WIN** -> All blocks cleared.
 - *Score = Score + Bonus*
-- Game main clock speed increase once, *Bonus = 1*
+- Game main clock speed automatically increases once, reset bonus: *Bonus = 1*
 
 [//]: # (Endbullet)
 **LOSE** -> Ball fall off from the bottom line
