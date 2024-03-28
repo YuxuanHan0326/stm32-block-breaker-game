@@ -1,5 +1,5 @@
 # STM32 Based Handheld Brick Breaker Game
-***Note: This is an university coursework. Permission is obtained from the module lead to upload the project files to GitHub.***
+***Note: This is an university coursework. Permission had been obtained from the module lead to upload the project files to GitHub.***
 
 - [Introduction](https://github.com/YuxuanHan0326/stm32-block-breaker-game?tab=readme-ov-file#introduction)
 - [Gameplay](https://github.com/YuxuanHan0326/stm32-block-breaker-game?tab=readme-ov-file#gameplay)
