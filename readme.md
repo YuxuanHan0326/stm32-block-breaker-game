@@ -1,6 +1,12 @@
 # STM32 Based Handheld Brick Breaker Game
 ***Note: This is an undergraduate coursework. Permission is obtained from the module lead to upload the project files to GitHub.***
 
+- [Introduction](https://github.com/YuxuanHan0326/stm32-block-breaker-game?tab=readme-ov-file#introduction)
+- [Gameplay](https://github.com/YuxuanHan0326/stm32-block-breaker-game?tab=readme-ov-file#gameplay)
+- [Basic Controls](https://github.com/YuxuanHan0326/stm32-block-breaker-game?tab=readme-ov-file#basic-controls)
+- [Game Rules](https://github.com/YuxuanHan0326/stm32-block-breaker-game?tab=readme-ov-file#game-rules)
+- [Pin Configuations](https://github.com/YuxuanHan0326/stm32-block-breaker-game?tab=readme-ov-file#pin-configuations)
+
 ## Introduction
 This is a simple brick breaker game, made up of:
 - STM32 NUCLEO-F401RE board
@@ -33,7 +39,6 @@ Clock speed of the game main can be viewed via the on board LED (**LD2**, Green)
 
 ## Game Rules
 Initial Bonus = 1
-\
 
 **WIN** -> All blocks cleared.
 - *Score = Score + Bonus*
