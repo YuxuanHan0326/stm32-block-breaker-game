@@ -36,8 +36,8 @@ Clock speed of the game main can be viewed via the on board LED (**LD2**, Green)
 | Pause / Continue Game | Short CLICK Pushbutton |
 | Left Shift Paddle | Joystick LEFT |
 | Right Shift Paddle | Joystick RIGHT |
-| Increase Game Clock Speed (Bonus + 1) | Joystick UP |
-| Decrease Game Clock Speed (Bonus - 1) | Joystick DOWN |
+| Increase Game Clock Speed (Bonus ++) | Joystick UP |
+| Decrease Game Clock Speed (Bonus --) | Joystick DOWN |
 | Engage (Disengage) Autoplay | Long PRESS Pushbutton |
 
 ## Game Rules
