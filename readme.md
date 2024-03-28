@@ -32,12 +32,15 @@ Clock speed of the game main can be viewed via the on board LED (**LD2**, Green)
 | Engage (Disengage) Autoplay | Long PRESS Pushbutton |
 
 ## Game Rules
-Initial Bonus = 1\
-**WIN** -> All blocks cleared.\
+Initial Bonus = 1
+\
+**WIN** -> All blocks cleared.
 - *Score = Score + Bonus*
 - Game main clock speed increase once, *Bonus = 1*
+\
 **LOSE** -> Ball fall off from the bottom line
-- You lose all the scores\
+- You lose all the scores
+\
 **Difficulty Adjustment** -> Joystick UP / DOWN
 - Increase clock speed: *Bonus ++*
 - Decrease clock speed: *Bonus --*
