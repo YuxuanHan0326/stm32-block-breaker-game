@@ -33,14 +33,16 @@ Clock speed of the game main can be viewed via the on board LED (**LD2**, Green)
 
 ## Game Rules
 Initial Bonus = 1
-<a/>
+\
 **WIN** -> All blocks cleared.
 - *Score = Score + Bonus*
 - Game main clock speed increase once, *Bonus = 1*
-<a/>
+[//]: # (Endbullet)
+\
 **LOSE** -> Ball fall off from the bottom line
 - You lose all the scores
-<a/>
+[//]: # (Endbullet)
+\
 **Difficulty Adjustment** -> Joystick UP / DOWN
 - Increase clock speed: *Bonus ++*
 - Decrease clock speed: *Bonus --*
