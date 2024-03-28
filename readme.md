@@ -33,7 +33,7 @@ Clock speed of the game main can be viewed via the on board LED (**LD2**, Green)
 ## Basic Controls
 | Function | Control |
 | --- | --- |
-| Start / Pause Game | Short CLICK Pushbutton |
+| Pause / Continue Game | Short CLICK Pushbutton |
 | Left Shift Paddle | Joystick LEFT |
 | Right Shift Paddle | Joystick RIGHT |
 | Increase Game Clock Speed (Bonus + 1) | Joystick UP |
