@@ -48,12 +48,10 @@ Initial Bonus = 1
 - Game main clock speed increase once, *Bonus = 1*
 
 [//]: # (Endbullet)
-\
 **LOSE** -> Ball fall off from the bottom line
 - You lose all the scores
 
 [//]: # (Endbullet)
-\
 **Difficulty Adjustment** -> Joystick UP / DOWN
 - Increase clock speed: *Bonus ++*
 - Decrease clock speed: *Bonus --*
